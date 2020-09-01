@@ -1,0 +1,2 @@
+# Unity-SpinForNgui
+Unity/SpinForNgui
